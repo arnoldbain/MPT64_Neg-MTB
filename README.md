@@ -5,4 +5,4 @@ These analyses aimed at estimating the temporal evolution of both MPT64 negative
 
 The raw sequencing data used in this study are available under project accession number PRJNA1095921.
 
-    The folder analyses/ contains the XML files used for phylodynamic analyses in BEAST2.
+    The listed XML files were some of the files used for phylodynamic analyses in BEAST2.
