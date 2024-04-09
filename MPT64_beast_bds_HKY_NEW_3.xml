@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='Standard' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="" version="2.6">
+
+    <data
+id="MPT64_Update_Final_merged_filter_vcf_Inv_beast_ori"
+spec="Alignment">
+                            <sequence id="seq_08MT01995_2008-02-181" spec="Sequence" taxon="08MT01995_2008-02-18" totalcount="4" value="GTTACAGGGGTCCATGGCCGGGAGCTCAGGCTGTGGGTGCCGCCGGGGGATCTTGGAACGATGGGGGCTTGTGGG"/>
+                            <sequence id="seq_08MT15261_2008-11-111" spec="Sequence" taxon="08MT15261_2008-11-11" totalcount="4" value="GTTACAGGGGTCCATGGCCGTGAACTCAGGCTGTGGGTGCCGCCGGGGGATCTTGGAACGATGGGGGCTTGTGGG"/>
+                            <sequence id="seq_09MT16184_2009-10-301" spec="Sequence" taxon="09MT16184_2009-10-30" totalcount="4" value="GTTACAGGGGTCCATGGCCGGCAGCCCAGGCTGTGGGTGCTGCCGGGGGATCTTGGAACGATGGGGGCTTGTGGG"/>
+                            <sequence id="seq_119786791_2002-08-211" spec="Sequence" taxon="119786791_2002-08-21" totalcount="4" value="GTTACAGGGGTCCATGGCCGGGAGCTCAGGCAGTGGGTGCCGCCGGGGGATCTTGGAACGATGGGGGCTTGTGGG"/>
+                            <sequence id="seq_11MT20032_2011-11-211" spec="Sequence" taxon="11MT20032_2011-11-21" totalcount="4" value="GTTACAGGGTTCCATGACCGGGAGCTCAGGCAGTGGGTGCCGCCGGGGGACCTTGGAACGATGGGGGCTTATTGG"/>
+                            <sequence id="seq_11MT6066_2011-04-271" spec="Sequence" taxon="11MT6066_2011-04-27" totalcount="4" value="GTTACAGGGGTCCATGGCCGGGAGCTCAGGCTGTGGGTGCCGCCGGGGGATCTTGGAACGATGGGGGCTTATGGG"/>
+                            <sequence id="seq_12MT13019_2012-08-151" spec="Sequence" taxon="12MT13019_2012-08-15" totalcount="4" value="GTTACAGGGGTCCATGGCCGGCAGCTCAGGCTGTGGGTGCCGCCGGGGGATCTTGGAACGATGGGGGCTTGTGGG"/>
+                            <sequence id="seq_12MT1958_2012-02-071" spec="Sequence" taxon="12MT1958_2012-02-07" totalcount="4" value="GTTACAGGGGTCCATGGTCGGGAGCTCAGGCTGTGGGTGCCGCCGGGGGATCTTGGAACGATGGGGGCTTATGGG"/>
+                            <sequence id="seq_12MT6935_2012-05-031" spec="Sequence" taxon="12MT6935_2012-05-03" totalcount="4" value="GTTACAGGGTTCCATGACCGGGAGCTCAGGCTGTGGGTGCCGCCGGGGGACCTTGGAACGATGGGGGTTTACTGG"/>
+                            <sequence id="seq_12MT8886_2012-06-031" spec="Sequence" taxon="12MT8886_2012-06-03" totalcount="4" value="GTTACAGGGGTCCATGGCCGGGAGCTCAGGCTGCGGGAGCCGCCGGGGGACCTTCGAACGATGGGGGCTTGTGGG"/>
+                            <sequence id="seq_12MT9833_2012-06-221" spec="Sequence" taxon="12MT9833_2012-06-22" totalcount="4" value="GTTACAGGGGTCCATGGCTGGGAGCTCAGGTTGTGGGTGCCGCCGGGGGACCTTGGAACGATGGGGGCTTATGGG"/>
+                            <sequence id="seq_136126396_2003-06-041" spec="Sequence" taxon="136126396_2003-06-04" totalcount="4" value="GTTACAGGGGTCCATGGCCGGGAGCTCAGTCTGTGGGTGCCGCCGGGGGATCTTGGAACGATGGGGGCTTGTGGG"/>
+                            <sequence id="seq_13MT02796_2013-02-211" spec="Sequence" taxon="13MT02796_2013-02-21" totalcount="4" value="GTTACAGGGGGCCATGGCCGGCAGCTCAGGCTGTGGGTGCCGCTGGGGGATCTTGGAACGATGGGGGCTTGTGGG"/>
+                            <sequence id="seq_144923814_2003-11-201" spec="Sequence" taxon="144923814_2003-11-20" totalcount="4" value="GTTACAGGGGTCCATGGCCGGGAGCTCAGGCTGTGGGTGCCGCCGGGGGATCTTGGAACGATGGGGGCTTGTGGG"/>
+                            <sequence id="seq_14MT12109_2014-07-291" spec="Sequence" taxon="14MT12109_2014-07-29" totalcount="4" value="GTTACGGGGGTCCATGGCCGGGAGCTAAAGCTGTGAGTGCCGCCGGGGGATCTTGGACCGATGGGGGCTTATGGG"/>
+                            <sequence id="seq_14MT14995_2014-09-161" spec="Sequence" taxon="14MT14995_2014-09-16" totalcount="4" value="GCTACAGGGGTCCAAGGCCGGGAGCTCAGTCTGTGGCTGCCGCCGAGGGATCTTGGAACGATGGGGGCTTGTGGG"/>
+                            <sequence id="seq_15MT01458_2015-01-271" spec="Sequence" taxon="15MT01458_2015-01-27" totalcount="4" value="GTTACAGGGGTCCATGGCCGGGAGCTCAGGCTGTGGGTGACGCCGGGGGATTTTGGAACGATGGAGGCCTGTGGG"/>
+                            <sequence id="seq_15MT04899_2015-03-251" spec="Sequence" taxon="15MT04899_2015-03-25" totalcount="4" value="GTTACAGGGGTCCATGGCCGGGAGCTCAGGCAGTCGGTGCCGCCGGGGAATCTTGGAACGATGGGGTCTTATGGG"/>
+                            <sequence id="seq_15MT17040_2015-09-231" spec="Sequence" taxon="15MT17040_2015-09-23" totalcount="4" value="GTTACAGGGGTCCATGGCCGGGAGCTCAGTCTGTGGGTGCCGCCGGGGGACCTTGGAACGATGGGGGCTTGTGGG"/>
+                            <sequence id="seq_15MT19965_2015-11-081" spec="Sequence" taxon="15MT19965_2015-11-08" totalcount="4" value="GTAACAGGGGTCCATGGCCGGGAGCTCAGGCTGTGGGTGCCGCCGGTGGACCTTGGAATGATGGGGGCTTATGGG"/>
+                            <sequence id="seq_16MT12167_2016-06-181" spec="Sequence" taxon="16MT12167_2016-06-18" totalcount="4" value="GTTACAGGGGTCCATGGCCGGGAGCTCAGGCTGTGGGTGCCGCCGGGGGATCTTGGAACGATGGGGGCTTGTGGG"/>
+                            <sequence id="seq_17MT23264_2017-11-171" spec="Sequence" taxon="17MT23264_2017-11-17" totalcount="4" value="GTTACAGAGGTCCATGGCCGGGAGCTCAGGCTGTGGGTGCCGCCAGGGGCTCTTGGAACGATGGGGGCTTATGGG"/>
+                            <sequence id="seq_17MT7440_2017-04-131" spec="Sequence" taxon="17MT7440_2017-04-13" totalcount="4" value="GTTACAGAGGTCCATGGCCGGGAGCTCAGGCTGTGGGTGCCGCCAGGGGCTCTTGGAACGATGGGGGCTTATGGG"/>
+                            <sequence id="seq_17MT8922_2017-05-041" spec="Sequence" taxon="17MT8922_2017-05-04" totalcount="4" value="GTTACAGAGGTCCATGGCCGGGAGCTCAGGCAGTGGGTGCCGCCAGGGGCTCTTGGAACGATGGGGGCTTATGGG"/>
+                            <sequence id="seq_181495881_2004-04-161" spec="Sequence" taxon="181495881_2004-04-16" totalcount="4" value="GTTACAGGGGTCCATGGCCGGGAGCTCAGGCTGTGGGTGCCGCCGGGGGATCTAGGAACGATGGGAGCTTGTGGG"/>
+                            <sequence id="seq_181499989_2004-04-161" spec="Sequence" taxon="181499989_2004-04-16" totalcount="4" value="GTTACAGGGGTCCATGGCCGGCAGGTCAGGCTGTGGGTACCGCCGGGGGATCTTGGAACGATGGGGGCTTGTGGG"/>
+                            <sequence id="seq_1817730097NSW_2018-03-151" spec="Sequence" taxon="1817730097NSW_2018-03-15" totalcount="4" value="GTTACAAGGGTCCATGGCCGGGAGCTCAGGCTGTGGGTGCCGCCGGTGGATCTTGGAATGATGGGGGCTTATGGG"/>
+                            <sequence id="seq_18MT0741_2018-04-181" spec="Sequence" taxon="18MT0741_2018-04-18" totalcount="4" value="GTTATAGGGGTCCATGGCCGGGAGCTCAGGCAGTGGGTGCCGCCGGTGGACCTTGGAATGATGGGGGCTTATGGG"/>
+                            <sequence id="seq_18MT20250_2018-10-031" spec="Sequence" taxon="18MT20250_2018-10-03" totalcount="4" value="GTTACAGGGTTCCATGACCGGGAGCTCAGGCTGTGGGTGCCGCCGGGGGATCTTGGAACGATGGGGGCTTATTGG"/>
+                            <sequence id="seq_18MT7847_2018-04-181" spec="Sequence" taxon="18MT7847_2018-04-18" totalcount="4" value="GTTATAGGGGTCCATGGCCGGGAGCTCAGGCTGTGGGTGCCGCCGGTGGATCTTGGAATGATGGGGGCTTATGGG"/>
+                            <sequence id="seq_19MT10432_2019-05-281" spec="Sequence" taxon="19MT10432_2019-05-28" totalcount="4" value="GTTACAGGGTTCTATGGCCGGGGGCTCAGGCTGTGGGTGCCGCCGGGGGATCTTGGAACGATGGGGGCTTATTGG"/>
+                            <sequence id="seq_19MT16745_2019-08-231" spec="Sequence" taxon="19MT16745_2019-08-23" totalcount="4" value="ATTACAGGGGTCCATGGCCGGGAGCTCAGGCTGTGGGTGCCGCCGGTGGATCTTGGAATGATGGGGGCTTATGGG"/>
+                            <sequence id="seq_19MT20011_2019-10-101" spec="Sequence" taxon="19MT20011_2019-10-10" totalcount="4" value="GTTACAGGGTTTTATGGCCGGGGGCTCAGGCTGTGGGTGCCGCCGGGGGACCTTGGAACGATGGGGGCTCATTGG"/>
+                            <sequence id="seq_19MT24142_2019-12-061" spec="Sequence" taxon="19MT24142_2019-12-06" totalcount="4" value="GTTACAGGGGTCCATGGCCGGGAGCTCAGGCTGTGGGTGCCGCCGGTGGATCTTGGAATGATGGGGGCTTATGGG"/>
+                            <sequence id="seq_19MT9764_2019-05-211" spec="Sequence" taxon="19MT9764_2019-05-21" totalcount="4" value="GTTACAGGGGTCCATGGCCAGGAGCTCAGTCTGTGGGTGCCGCCGGGGGACCTTGAAACGGTAGGGGCTTGTGGG"/>
+                            <sequence id="seq_200020001_2019-12-041" spec="Sequence" taxon="200020001_2019-12-04" totalcount="4" value="GTTACAGGGGTCCATGGCCGGGAGCTCAGGCAGTGGGTGCCTCCGGGGGATCTTGGAACGATGGGGGCTTGTGGT"/>
+                            <sequence id="seq_20MT15709_2020-09-081" spec="Sequence" taxon="20MT15709_2020-09-08" totalcount="4" value="GTTACAGGGTTCTATGGCCGGGGGCTCGGGCAGTGGGTGCCGCCGGGGGACCTTGGAACGATGGGGGCTTATTGG"/>
+                            <sequence id="seq_20MT20432_2020-11-231" spec="Sequence" taxon="20MT20432_2020-11-23" totalcount="4" value="GTTGCAGGAGTCCCTTGCCGGGAGCTCAGGCTCTGGGTGCCGTCGGGAGACCGTGGAACAATGAGGGCTTGTGAG"/>
+                            <sequence id="seq_20MT8581_2020-02-011" spec="Sequence" taxon="20MT8581_2020-02-01" totalcount="4" value="GTTACAGGGTTCTATGGCCGGGGGCTCAGGCTGTGGGTGCCGCCGGGGGATCTTGGAACGACGGGGGCTTATTGG"/>
+                            <sequence id="seq_295585752_2016-06-301" spec="Sequence" taxon="295585752_2016-06-30" totalcount="4" value="GTTACAGGGGTCCATGGCCGGGAGCTCAGGCTGTGGGTGCCGCCGGGGGATCTTGGAACGATGGGGGCTTGTGGG"/>
+                            <sequence id="seq_315832280_2007-03-121" spec="Sequence" taxon="315832280_2007-03-12" totalcount="4" value="GTTACAGGGGTCCATGGCCGGCAGGTCAGGCTGTGGGTGCCGCCGGGGGACCTTGGCACGATGGGGGCTTGTGGG"/>
+                            <sequence id="seq_RB22MT16151_2022-09-061" spec="Sequence" taxon="RB22MT16151_2022-09-06" totalcount="4" value="GTTACAGGGTTCTATGGCCGGGGGCTCGGGCTGTGGGTGCCGCCGGGGGACCTTGGAACGATGGGGGCTTATTGG"/>
+                            <sequence id="seq_RB22MT24254_2022-12-171" spec="Sequence" taxon="RB22MT24254_2022-12-17" totalcount="4" value="GTTACAGGGTTCTATGGCCGGGGGCTCGGGCTGTGGGTGCCGCCGGGGGATCTTGGAACGATGGGGGCTTATTGG"/>
+                        </data>
+
+
+    
+
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+<run id="mcmc" spec="MCMC" chainLength="100000000" preBurnin="100" storeEvery="5000">
+    <state id="state" spec="State" storeEvery="5000">
+        <tree id="Tree.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="beast.evolution.tree.Tree" name="stateNode">
+            <trait id="dateTrait.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="beast.evolution.tree.TraitSet" dateFormat="yyyy-MM-dd" traitname="date" value="08MT01995_2008-02-18=2008-02-18,08MT15261_2008-11-11=2008-11-11,09MT16184_2009-10-30=2009-10-30,119786791_2002-08-21=2002-08-21,11MT20032_2011-11-21=2011-11-21,11MT6066_2011-04-27=2011-04-27,12MT13019_2012-08-15=2012-08-15,12MT1958_2012-02-07=2012-02-07,12MT8886_2012-06-03=2012-06-03,12MT9833_2012-06-22=2012-06-22,136126396_2003-06-04=2003-06-04,13MT02796_2013-02-21=2013-02-21,144923814_2003-11-20=2003-11-20,14MT12109_2014-07-29=2014-07-29,14MT14995_2014-09-16=2014-09-16,15MT01458_2015-01-27=2015-01-27,15MT04899_2015-03-25=2015-03-25,15MT17040_2015-09-23=2015-09-23,15MT19965_2015-11-08=2015-11-08,16MT12167_2016-06-18=2016-06-18,17MT23264_2017-11-17=2017-11-17,17MT7440_2017-04-13=2017-04-13,17MT8922_2017-05-04=2017-05-04,181495881_2004-04-16=2004-04-16,181499989_2004-04-16=2004-04-16,1817730097NSW_2018-03-15=2018-03-15,18MT0741_2018-04-18=2018-04-18,18MT20250_2018-10-03=2018-10-03,18MT7847_2018-04-18=2018-04-18,19MT10432_2019-05-28=2019-05-28,19MT16745_2019-08-23=2019-08-23,19MT20011_2019-10-10=2019-10-10,19MT24142_2019-12-06=2019-12-06,19MT9764_2019-05-21=2019-05-21,200020001_2019-12-04=2019-12-04,20MT15709_2020-09-08=2020-09-08,20MT20432_2020-11-23=2020-11-23,20MT8581_2020-02-01=2020-02-01,295585752_2016-06-30=2016-06-30,315832280_2007-03-12=2007-03-12,12MT6935_2012-05-03=2012-05-03,RB22MT16151_2022-09-06=2022-09-06,RB22MT24254_2022-12-17=2022-12-17">
+                <taxa id="TaxonSet.MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="TaxonSet">
+                    <alignment id="MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="FilteredAlignment" filter="-">
+                        <data idref="MPT64_Update_Final_merged_filter_vcf_Inv_beast_ori"/>
+                        <constantSiteWeights id="IntegerParameter.0" spec="parameter.IntegerParameter" dimension="4" lower="0" upper="0">758523 1449982 1444605 758347</constantSiteWeights>
+                    </alignment>
+                </taxa>
+            </trait>
+            <taxonset idref="TaxonSet.MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+        </tree>
+        <parameter id="kappa.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.RealParameter" lower="0.0" name="stateNode">2.0</parameter>
+        <parameter id="gammaShape.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="ucldMean.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.RealParameter" lower="-Infinity" name="stateNode" upper="Infinity">1.0</parameter>
+        <parameter id="ucldStdev.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.RealParameter" lower="0.0" name="stateNode">0.1</parameter>
+        <stateNode id="rateCategories.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.IntegerParameter" dimension="84">1</stateNode>
+        <parameter id="origin_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="40.0">25.0</parameter>
+        <parameter id="becomeUninfectiousRate_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="Infinity">1.0</parameter>
+        <parameter id="reproductiveNumber_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.RealParameter" dimension="10" lower="0.0" name="stateNode" upper="10.0">0.7</parameter>
+        <parameter id="samplingProportion_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="1.0">0.01</parameter>
+        <parameter id="freqParameter.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.RealParameter" dimension="4" lower="0.0" name="stateNode" upper="1.0">0.25</parameter>
+    </state>
+    <init id="RandomTree.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="beast.evolution.tree.RandomTree" estimate="false" initial="@Tree.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" taxa="@MPT64_Update_Final_merged_filter_vcf_Inv_beast">
+        <populationModel id="ConstantPopulation0.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="ConstantPopulation">
+            <parameter id="randomPopSize.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.RealParameter" name="popSize">1.0</parameter>
+        </populationModel>
+    </init>
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <distribution id="BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="beast.evolution.speciation.BirthDeathSkylineModel" becomeUninfectiousRate="@becomeUninfectiousRate_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" origin="@origin_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" reproductiveNumber="@reproductiveNumber_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" samplingProportion="@samplingProportion_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" tree="@Tree.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+            <prior id="becomeUninfectiousRatePrior_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" name="distribution" x="@becomeUninfectiousRate_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast">
+                <LogNormal id="LogNormalDistributionModel.10" name="distr">
+                    <parameter id="parameter.hyperLogNormalDistributionModel-M-becomeUninfectiousRatePrior_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.RealParameter" estimate="false" lower="0.0" name="M" upper="Infinity">0.0</parameter>
+                    <parameter id="parameter.hyperLogNormalDistributionModel-S-becomeUninfectiousRatePrior_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.RealParameter" estimate="false" lower="0.0" name="S" upper="Infinity">1.0</parameter>
+                </LogNormal>
+            </prior>
+            <prior id="FrequenciesPrior.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast" name="distribution" x="@freqParameter.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast">
+                <Uniform id="Uniform.23" name="distr"/>
+            </prior>
+            <prior id="GammaShapePrior.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast" name="distribution" x="@gammaShape.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast">
+                <Exponential id="Exponential.9" name="distr">
+                    <parameter id="RealParameter.82" spec="parameter.RealParameter" estimate="false" name="mean">1.0</parameter>
+                </Exponential>
+            </prior>
+            <prior id="KappaPrior.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast" name="distribution" x="@kappa.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast">
+                <LogNormal id="LogNormalDistributionModel.9" name="distr">
+                    <parameter id="RealParameter.83" spec="parameter.RealParameter" estimate="false" name="M">1.0</parameter>
+                    <parameter id="RealParameter.84" spec="parameter.RealParameter" estimate="false" name="S">1.25</parameter>
+                </LogNormal>
+            </prior>
+            <prior id="originPrior_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" name="distribution" x="@origin_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast">
+                <LogNormal id="LogNormalDistributionModel.12" meanInRealSpace="true" name="distr">
+                    <parameter id="RealParameter.99" spec="parameter.RealParameter" estimate="false" name="M">2.5</parameter>
+                    <parameter id="RealParameter.100" spec="parameter.RealParameter" estimate="false" lower="0.0" name="S" upper="5.0">0.5</parameter>
+                </LogNormal>
+            </prior>
+            <prior id="reproductiveNumberPrior_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" name="distribution" x="@reproductiveNumber_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast">
+                <LogNormal id="LogNormalDistributionModel.11" name="distr">
+                    <parameter id="parameter.hyperLogNormalDistributionModel-M-reproductiveNumberPrior_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.RealParameter" estimate="false" lower="0.0" name="M" upper="10.0">0.0</parameter>
+                    <parameter id="RealParameter.95" spec="parameter.RealParameter" estimate="false" name="S">0.5</parameter>
+                </LogNormal>
+            </prior>
+            <prior id="samplingProportionPrior_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" name="distribution" x="@samplingProportion_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast">
+                <Beta id="Beta.10" name="distr">
+                    <parameter id="RealParameter.96" spec="parameter.RealParameter" estimate="false" name="alpha">45.0</parameter>
+                    <parameter id="RealParameter.98" spec="parameter.RealParameter" estimate="false" name="beta">5.0</parameter>
+                </Beta>
+            </prior>
+            <prior id="MeanRatePrior.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" name="distribution" x="@ucldMean.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast">
+                <LogNormal id="LogNormalDistributionModel.14" name="distr">
+                    <parameter id="parameter.hyperLogNormalDistributionModel-M-MeanRatePrior.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.RealParameter" estimate="false" lower="-Infinity" name="M" upper="Infinity">-16.0</parameter>
+                    <parameter id="parameter.hyperLogNormalDistributionModel-S-MeanRatePrior.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.RealParameter" estimate="false" lower="-Infinity" name="S" upper="Infinity">0.5</parameter>
+                </LogNormal>
+            </prior>
+            <prior id="ucldStdevPrior.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" name="distribution" x="@ucldStdev.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast">
+                <Beta id="Beta.11" name="distr">
+                    <parameter id="RealParameter.105" spec="parameter.RealParameter" estimate="false" name="alpha">2.0</parameter>
+                    <parameter id="RealParameter.109" spec="parameter.RealParameter" estimate="false" name="beta">2.0</parameter>
+                </Beta>
+            </prior>
+        </distribution>
+        <distribution id="likelihood" spec="util.CompoundDistribution" useThreads="true">
+            <distribution id="treeLikelihood.MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="ThreadedTreeLikelihood" data="@MPT64_Update_Final_merged_filter_vcf_Inv_beast" tree="@Tree.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast">
+                <siteModel id="SiteModel.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="SiteModel" gammaCategoryCount="4" shape="@gammaShape.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast">
+                    <parameter id="mutationRate.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.RealParameter" estimate="false" name="mutationRate">1.0</parameter>
+                    <parameter id="proportionInvariant.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="parameter.RealParameter" estimate="false" lower="0.0" name="proportionInvariant" upper="1.0">0.0</parameter>
+                    <substModel id="hky.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="HKY" kappa="@kappa.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast">
+                        <frequencies id="estimatedFreqs.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="Frequencies" frequencies="@freqParameter.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+                    </substModel>
+                </siteModel>
+                <branchRateModel id="RelaxedClock.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="beast.evolution.branchratemodel.UCRelaxedClockModel" clock.rate="@ucldMean.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" rateCategories="@rateCategories.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" tree="@Tree.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast">
+                    <LogNormal id="LogNormalDistributionModel.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" S="@ucldStdev.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" meanInRealSpace="true" name="distr">
+                        <parameter id="RealParameter.85" spec="parameter.RealParameter" estimate="false" lower="0.0" name="M" upper="1.0">1.0</parameter>
+                    </LogNormal>
+                </branchRateModel>
+            </distribution>
+        </distribution>
+    </distribution>
+    <operator id="KappaScaler.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="ScaleOperator" parameter="@kappa.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast" scaleFactor="0.5" weight="0.1"/>
+    <operator id="gammaShapeScaler.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="ScaleOperator" parameter="@gammaShape.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast" scaleFactor="0.5" weight="0.1"/>
+    <operator id="ucldMeanScaler.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="ScaleOperator" parameter="@ucldMean.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" scaleFactor="0.5" weight="1.0"/>
+    <operator id="ucldStdevScaler.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="ScaleOperator" parameter="@ucldStdev.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" scaleFactor="0.5" weight="3.0"/>
+    <operator id="CategoriesRandomWalk.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="IntRandomWalkOperator" parameter="@rateCategories.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" weight="10.0" windowSize="1"/>
+    <operator id="CategoriesSwapOperator.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="SwapOperator" intparameter="@rateCategories.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" weight="10.0"/>
+    <operator id="CategoriesUniform.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="UniformOperator" parameter="@rateCategories.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" weight="10.0"/>
+    <operator id="relaxedUpDownOperator.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="UpDownOperator" scaleFactor="0.75" weight="3.0">
+        <up idref="ucldMean.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+        <down idref="Tree.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+    </operator>
+    <operator id="BDSKY_SerialTreeScaler.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="ScaleOperator" scaleFactor="0.5" tree="@Tree.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" weight="3.0"/>
+    <operator id="BDSKY_SerialTreeRootScaler.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="ScaleOperator" rootOnly="true" scaleFactor="0.5" tree="@Tree.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" weight="3.0"/>
+    <operator id="BDSKY_SerialUniformOperator.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="Uniform" tree="@Tree.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" weight="30.0"/>
+    <operator id="BDSKY_SerialSubtreeSlide.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="SubtreeSlide" tree="@Tree.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" weight="15.0"/>
+    <operator id="BDSKY_SerialNarrow.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="Exchange" tree="@Tree.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" weight="15.0"/>
+    <operator id="BDSKY_SerialWide.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="Exchange" isNarrow="false" tree="@Tree.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" weight="3.0"/>
+    <operator id="BDSKY_SerialWilsonBalding.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="WilsonBalding" tree="@Tree.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" weight="3.0"/>
+    <operator id="becomeUninfectiousRateScaler_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="ScaleOperator" parameter="@becomeUninfectiousRate_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" weight="2.0"/>
+    <operator id="reproductiveNumberScaler_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="ScaleOperator" parameter="@reproductiveNumber_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" weight="10.0"/>
+    <operator id="samplingProportionScaler_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="ScaleOperator" parameter="@samplingProportion_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" weight="10.0"/>
+    <operator id="updownBD_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="UpDownOperator" scaleFactor="0.75" weight="2.0">
+        <up idref="reproductiveNumber_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+        <down idref="becomeUninfectiousRate_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+    </operator>
+    <operator id="origScaler_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="ScaleOperator" parameter="@origin_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" weight="1.0"/>
+    <operator id="FrequenciesExchanger.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="DeltaExchangeOperator" delta="0.01" weight="0.1">
+        <parameter idref="freqParameter.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+    </operator>
+    <logger id="tracelog" spec="Logger" fileName="MPT64_beast_bds_HKY_NEW_3.log" logEvery="5000" model="@posterior" sanitiseHeaders="true" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log idref="treeLikelihood.MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+        <log id="TreeHeight.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+        <log idref="kappa.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+        <log idref="gammaShape.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+        <log idref="ucldMean.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+        <log idref="ucldStdev.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+        <log id="rate.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="beast.evolution.branchratemodel.RateStatistic" branchratemodel="@RelaxedClock.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" tree="@Tree.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+        <log idref="BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+        <log idref="origin_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+        <log idref="becomeUninfectiousRate_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+        <log idref="reproductiveNumber_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+        <log idref="samplingProportion_BDSKY_Serial.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+        <log idref="freqParameter.s:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+    </logger>
+    <logger id="screenlog" spec="Logger" fileName="MPT64_2023_beast1_2_NEW_3" logEvery="1000" sanitiseHeaders="true">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+    </logger>
+    <logger id="treelog.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="Logger" fileName="MPT64_beast_bds_HKY_NEW_3.trees" logEvery="5000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast" spec="beast.evolution.tree.TreeWithMetaDataLogger" branchratemodel="@RelaxedClock.c:MPT64_Update_Final_merged_filter_vcf_Inv_beast" tree="@Tree.t:MPT64_Update_Final_merged_filter_vcf_Inv_beast"/>
+    </logger>
+    <operatorschedule id="OperatorSchedule" spec="OperatorSchedule"/>
+</run>
+</beast>
